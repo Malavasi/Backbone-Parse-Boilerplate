@@ -1,0 +1,4 @@
+buildTemp
+node_modules
+build
+.gradle
