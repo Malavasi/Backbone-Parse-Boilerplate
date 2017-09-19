@@ -1,0 +1,67 @@
+{
+    "name": "MyApp",
+    "dependencies": {
+        "backbone": "^1.3.3",
+        "bootstrap": "^3.3.7",
+        "bootstrap-sass": "^3.3.7",
+        "browser-sync": "^2.14.0",
+        "del": "^2.2.2",
+        "es6-promise-plugin": "^4.1.0",
+        "gentelella": "^1.3.0",
+        "grunt": "^1.0.1",
+        "grunt-contrib-jshint": "^1.0.0",
+        "grunt-run": "^0.6.0",
+        "gulp": "^3.9.1",
+        "gulp-clean-css": "^2.2.1",
+        "gulp-concat": "^2.6.0",
+        "gulp-copy": "0.0.2",
+        "gulp-cordova": "^6.0.0",
+        "gulp-css-scss": "^0.1.0",
+        "gulp-declare": "^0.3.0",
+        "gulp-handlebars": "^4.0.0",
+        "gulp-rename": "^1.2.2",
+        "gulp-sass": "^2.3.2",
+        "gulp-sequence": "^0.4.6",
+        "gulp-sourcemaps": "^1.9.1",
+        "gulp-wrap": "^0.13.0",
+        "handlebars": "^4.0.2",
+        "install": "^0.8.2",
+        "ionicons": "^3.0.0",
+        "jquery": "^1.11.3",
+        "jquery-mobile": "^1.5.0-alpha.1",
+        "jquery-ui": "^1.12.1",
+        "jssor-slider": "^24.1.5",
+        "lity": "^2.2.2",
+        "npm": "^3.10.9",
+        "parse": "^1.9.2",
+        "systemjs-builder": "^0.15.34",
+        "systemjs-plugin-babel": "0.0.17",
+        "through2": "^2.0.1",
+        "underscore": "^1.8.3",
+        "urijs": "^1.18.4",
+        "wrench": "^1.5.9"
+    },
+    "description": "Description of MyApp",
+    "version": "2.0.4",
+    "main": "Gruntfile.js",
+    "directories": {
+        "test": "test"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Malavasi/Backbone-Parse-Boilerplate.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "gulp-jsdoc3": "^1.0.1",
+        "mkpath": "^1.0.0",
+        "node-version-compare": "^1.0.1",
+        "plist": "git+https://github.com/TooTallNate/plist.js.git",
+        "rimraf": "^2.5.4",
+        "xml2js": "^0.4.17"
+    }
+}
